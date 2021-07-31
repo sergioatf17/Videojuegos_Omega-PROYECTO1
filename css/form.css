@@ -1,9 +1,13 @@
 *{
-    box-sizing: border-box;
+    box-sizing: border-box;   
+}
+
+body{
+    background-color: rgb(219, 208, 208);
 }
 
 h1{
-    color: #fff;
+    color: rgb(170, 161, 161);
     text-align: center;
 }
 input{
@@ -11,14 +15,14 @@ input{
     padding: 15px;
     font-size: 16px;
     border-radius: 3px;
-    border : 1px solid darkgray;
+    border : 1px solid rgb(105, 99, 99);
 }
 .form-register{
     width: 95%;
     max-width: 500%;
     margin: 10px;
     margin: auto;
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 7px;
    
 }

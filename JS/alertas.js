@@ -1,40 +1,40 @@
-Swal.fire({ 
-       title:'Bienvenidos',
-	   text: 'Selecciona tu departamento',
+//Swal.fire({ 
+    //  title:'Bienvenidos',
+	 //  text: 'Selecciona tu departamento',
 	// html:
 	// icon:
-	   confirmButtonText:'Seleccionar',
+	 //  confirmButtonText:'Seleccionar',
 	// footer:
 	// width:
 	// padding:
 	// background:
 	// grow:
-	   backdrop: 'true',
+	//   backdrop: 'true',
 	// timer:
 	// timerProgressBar:
 	// toast:
 	// position:
-	   allowOutsideClick: 'true',
-	   allowEscapeKey: 'false',
-	   allowEnterKey: 'false',
-       stopKeydownPropagation: 'false',
+	 //  allowOutsideClick: 'true',
+	 //  allowEscapeKey: 'false',
+	 //  allowEnterKey: 'false',
+      // stopKeydownPropagation: 'false',
 
-	   input: 'select',
-       inputPlaceholder: 'Departamento',
+	  // input: 'select',
+     //  inputPlaceholder: 'Departamento',
 	// inputValue:
-	 inputOptions: {
-		Amazonas:'Amazonas',
-		Antioquía:'Antioquía',
-		Arauca:'Arauca',
-		Atlántico:'Atlántico',
-		Bolívar:'Bolívar',
-		Boyacá:'Boyacá',
-		Caldas:'Caldas',
-		Caquetá:'Caquetá',
-		Casanare:'Casanare',
-		Cauca:'Cauca',
-		Cesar:'Cesar',
-	 }
+	 //inputOptions: {
+		//Amazonas:'Amazonas',
+		//Antioquía:'Antioquía',
+		//Arauca:'Arauca',
+		//Atlántico:'Atlántico',
+		//Bolívar:'Bolívar',
+		//Boyacá:'Boyacá',
+		//Caldas:'Caldas',
+		//Caquetá:'Caquetá',
+		//Casanare:'Casanare',
+		//Cauca:'Cauca',
+		//Cesar:'Cesar',
+	 //}
 	
 	//  customClass:
 	// 	container:
@@ -69,4 +69,4 @@ Swal.fire({
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
-});
+//});
