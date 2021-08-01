@@ -67,8 +67,7 @@ body{
     background-color: rgb(252, 252, 252);
 }
 
-
- footer{
+footer{
     width: 100%;
     padding: 0px 0px;
     margin: 30px;
@@ -91,11 +90,12 @@ body{
     flex-direction: column;
     padding: 40px;
 }
+
 .box_footer .logo img{
      width:80px;
      
-
 }
+
 .box_footer .terms{
      max-width: 350px;
      margin-top: 20px;
@@ -114,8 +114,7 @@ body{
 .box_footer a{
     margin-top: 5px;
     color: rgb(2, 2, 2);
-    font-weight: 600;
-   
+    font-weight: 600;  
 }
 
 .box_footer a:hover{
@@ -125,7 +124,6 @@ body{
 .box footer a .fab{
     font-size: 20px;
 }
-
 
 .box_copyright{
     max-width: 1200px;
@@ -144,8 +142,6 @@ body{
     height: 1px;
     background-color: #7a7a7a;
 }
-
-
   
 .botones .boton {
     margin: auto;
@@ -157,23 +153,22 @@ body{
     text-align: center;
     border-radius: 5px;
     -webkit-transition: .3s ease all;
-    transition: .3s ease all;
-    
-  }
+    transition: .3s ease all;   
+}
   
-  .botones .boton.primario {
+.botones .boton.primario {
     background: #3E60E9;
     
-  }
+}
   
- .botones .boton.primario:hover {
+.botones .boton.primario:hover {
     background: #0b34d6;
-  }
+}
   
 .botones .boton.secundario {
     background: #807b7b;
-  }
+}
   
- .botones .boton.secundario:hover {
+.botones .boton.secundario:hover {
     background: #afacac;
-  }
+}
